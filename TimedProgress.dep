@@ -1,0 +1,42 @@
+# Microsoft Developer Studio Generated Dependency File, included by TimedProgress.mak
+
+.\Ana_file.cpp : \
+	".\Ana_file.h"\
+	
+
+.\BJDATA.cpp : \
+	".\BJDATA.h"\
+	".\symnclass.h"\
+	
+
+.\ProgressTimeToComplete.cpp : \
+	".\memdc.h"\
+	".\ProgressTimeToComplete.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"d:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\symnclass.cpp : \
+	".\BJDATA.h"\
+	".\symnclass.h"\
+	
+
+.\TimedProgress.cpp : \
+	".\ProgressTimeToComplete.h"\
+	".\TimedProgress.h"\
+	".\TimedProgressDlg.h"\
+	
+
+.\TimedProgress.rc : \
+	".\res\TimedProgress.ico"\
+	".\res\TimedProgress.rc2"\
+	
+
+.\TimedProgressDlg.cpp : \
+	".\ProgressTimeToComplete.h"\
+	".\TimedProgress.h"\
+	".\TimedProgressDlg.h"\
+	
